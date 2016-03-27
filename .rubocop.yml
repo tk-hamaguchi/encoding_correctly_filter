@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - 'spec/dummy/**/*'
+    - 'features/**/*'
+
+Style/BlockComments:
+  Enabled: false
